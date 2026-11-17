@@ -5,6 +5,21 @@ A privacy-focused AI chatbot that answers questions from uploaded PDF and TXT do
 
 The application runs locally without paid AI APIs.
 
+## Application Screenshots
+
+### Main Interface
+![Main Interface](screenshots/01-main-interface.png)
+
+### Document Upload
+![Document Upload](screenshots/02-document-upload.png)
+
+### Question and Answer
+![Question and Answer](screenshots/03-question-answer.png)
+
+### Source Evidence
+![Source Evidence](screenshots/04-source-evidence.png)
+
+
 ## Features
 
 - Upload PDF and TXT documents
